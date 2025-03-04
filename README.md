@@ -74,4 +74,4 @@ License
 For questions or collaborations, reach out via:
 
 📧 Email: hopein95@gmail..com
-🔗 GitHub: your-github-profile
+🔗 GitHub: https://github.com/Ntokozo-sbusiso/Email-Spam-Classifier
