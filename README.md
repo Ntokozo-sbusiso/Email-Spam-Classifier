@@ -25,15 +25,15 @@ Ensure you have the following installed:
 
 # Installation Steps
 
-    Clone the repository:
+    Clone the repository: git clone git@github.com:Ntokozo-sbusiso/Email-Spam-Classifier.git
 
-git clone git@github.com:Ntokozo-sbusiso/Email-Spam-Classifier.git
 
-Install dependencies:
+
+## Install dependencies:
 
 pip install -r requirements.txt
 
-Run the application:
+### Run the application:
 
     python3 app.py
 
