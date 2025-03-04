@@ -10,10 +10,10 @@ This project is an NLP-based email spam classifier that allows users to detect s
 The project features a user-friendly interface, where users can paste or type an email and select the model of their choice to classify the message as Spam or Not Spam.
 Features
 
-✅ Choose between three machine learning models for classification.
-✅ Paste or write an email directly in the interface.
-✅ Instant prediction results.
-✅ Simple and interactive user experience.
+- Choose between three machine learning models for classification.
+- Paste or write an email directly in the interface.
+- Instant prediction results.
+- Simple and interactive user experience.
 
 Installation & Setup
 Prerequisites
@@ -23,12 +23,11 @@ Ensure you have the following installed:
     Python3
     Required libraries (install using the command below)
 
-Installation Steps
+# Installation Steps
 
     Clone the repository:
 
-git clone https://github.com/your-username/email-spam-classifier.git
-cd email-spam-classifier
+git clone git@github.com:Ntokozo-sbusiso/Email-Spam-Classifier.git
 
 Install dependencies:
 
@@ -40,14 +39,14 @@ Run the application:
 
     Open the interface in your browser (if using Flask/Streamlit, it will provide a local URL).
 
-Usage
+### Usage
 
     Open the application.
     Paste or type an email message.
     Select a model for classification.
     View the classification result (Spam / Not Spam).
 
-Models Used
+### Models Used
 
     1 Naïve Bayes (Best Accuracy)
     2 Logistic Regression
@@ -61,7 +60,7 @@ These models were trained on a labeled dataset of emails to detect spam effectiv
     NLTK / SpaCy (for text processing)
     Flask / Streamlit (for UI)
 
-Dataset Information
+### Dataset Information
 
 The model was trained on a spam email dataset containing labeled examples of Spam and Not Spam emails, processed using NLP techniques.
 Contributing
